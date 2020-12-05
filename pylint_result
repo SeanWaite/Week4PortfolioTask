@@ -1,0 +1,19 @@
+$ pylint animals_quiz.py
+************* Module animals_quiz
+animals_quiz.py:1:0: C0114: Missing module docstring (missing-module-docstring)      
+animals_quiz.py:5:0: C0115: Missing class docstring (missing-class-docstring)        
+animals_quiz.py:12:4: C0116: Missing function or method docstring (missing-function-docstring)
+animals_quiz.py:27:0: C0115: Missing class docstring (missing-class-docstring)       
+animals_quiz.py:33:4: C0116: Missing function or method docstring (missing-function-docstring)
+animals_quiz.py:38:4: C0116: Missing function or method docstring (missing-function-docstring)
+animals_quiz.py:42:4: C0116: Missing function or method docstring (missing-function-docstring)
+animals_quiz.py:46:4: C0116: Missing function or method docstring (missing-function-docstring)
+animals_quiz.py:61:0: C0115: Missing class docstring (missing-class-docstring)       
+animals_quiz.py:67:4: C0116: Missing function or method docstring (missing-function-docstring)
+animals_quiz.py:74:4: C0116: Missing function or method docstring (missing-function-docstring)
+animals_quiz.py:78:4: C0116: Missing function or method docstring (missing-function-docstring)
+animals_quiz.py:82:4: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 8.47/10 (previous run: 8.47/10, +0.00)
+

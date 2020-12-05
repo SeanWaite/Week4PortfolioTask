@@ -1,0 +1,130 @@
+animals_quiz.py:20:1: E402 module level import not at top of file
+animals_quiz.py:22:77: W291 trailing whitespace
+animals_quiz.py:23:1: E302 expected 2 blank lines, found 1
+animals_quiz.py:30:44: W291 trailing whitespace
+animals_quiz.py:31:10: N802 function name 'PrintAnimal' should be lowercase
+animals_quiz.py:32:80: E501 line too long (117 > 79 characters)
+animals_quiz.py:36:80: E501 line too long (87 > 79 characters)
+animals_quiz.py:39:50: E127 continuation line over-indented for visual indent
+animals_quiz.py:39:80: E501 line too long (80 > 79 characters)
+animals_quiz.py:40:50: E127 continuation line over-indented for visual indent
+animals_quiz.py:44:80: E501 line too long (88 > 79 characters)
+animals_quiz.py:46:80: E501 line too long (93 > 79 characters)
+animals_quiz.py:54:1: W293 blank line contains whitespace
+animals_quiz.py:63:1: W293 blank line contains whitespace
+animals_quiz.py:67:1: E302 expected 2 blank lines, found 1
+animals_quiz.py:68:4: E111 indentation is not a multiple of four
+animals_quiz.py:69:8: E111 indentation is not a multiple of four
+animals_quiz.py:70:8: E111 indentation is not a multiple of four
+animals_quiz.py:72:4: E114 indentation is not a multiple of four (comment)
+animals_quiz.py:72:43: W291 trailing whitespace
+animals_quiz.py:73:4: E111 indentation is not a multiple of four
+animals_quiz.py:73:9: N802 function name 'PrintInsect' should be lowercase
+animals_quiz.py:74:9: E117 over-indented
+animals_quiz.py:74:80: E501 line too long (143 > 79 characters)
+animals_quiz.py:76:4: E114 indentation is not a multiple of four (comment)
+animals_quiz.py:77:4: E111 indentation is not a multiple of four
+animals_quiz.py:77:9: N802 function name 'InsectBonusQuestion' should be lowercase
+animals_quiz.py:78:8: E111 indentation is not a multiple of four
+animals_quiz.py:80:4: E114 indentation is not a multiple of four (comment)
+animals_quiz.py:81:4: E111 indentation is not a multiple of four
+animals_quiz.py:81:9: N802 function name 'InsectBonusAnswer' should be lowercase
+animals_quiz.py:82:8: E111 indentation is not a multiple of four
+animals_quiz.py:84:4: E114 indentation is not a multiple of four (comment)
+animals_quiz.py:85:4: E111 indentation is not a multiple of four
+animals_quiz.py:85:9: N802 function name 'InsectRightAnswer' should be lowercase
+animals_quiz.py:86:8: E111 indentation is not a multiple of four
+animals_quiz.py:88:4: E111 indentation is not a multiple of four
+animals_quiz.py:89:9: E117 over-indented
+animals_quiz.py:89:80: E501 line too long (140 > 79 characters)
+animals_quiz.py:91:4: E111 indentation is not a multiple of four
+animals_quiz.py:92:8: E111 indentation is not a multiple of four
+animals_quiz.py:92:80: E501 line too long (102 > 79 characters)
+animals_quiz.py:95:1: E302 expected 2 blank lines, found 1
+animals_quiz.py:97:8: E111 indentation is not a multiple of four
+animals_quiz.py:98:8: E111 indentation is not a multiple of four
+animals_quiz.py:100:44: W291 trailing whitespace
+animals_quiz.py:101:10: N802 function name 'PrintMammal' should be lowercase
+animals_quiz.py:102:80: E501 line too long (151 > 79 characters)
+animals_quiz.py:105:10: N802 function name 'MammalBonusQuestion' should be lowercase
+animals_quiz.py:109:10: N802 function name 'MammalBonusAnswer' should be lowercase
+animals_quiz.py:113:10: N802 function name 'MammalRightAnswer' should be lowercase
+animals_quiz.py:117:80: E501 line too long (140 > 79 characters)
+animals_quiz.py:120:80: E501 line too long (103 > 79 characters)
+animals_quiz.py:124:1: E305 expected 2 blank lines after class or function definition, found 1
+animals_quiz.py:127:17: E231 missing whitespace after ','
+animals_quiz.py:127:23: E231 missing whitespace after ','
+animals_quiz.py:127:34: E231 missing whitespace after ','
+animals_quiz.py:127:40: E231 missing whitespace after ','
+animals_quiz.py:127:52: E231 missing whitespace after ','
+animals_quiz.py:128:16: E231 missing whitespace after ','
+animals_quiz.py:128:20: E231 missing whitespace after ','
+animals_quiz.py:128:24: E231 missing whitespace after ','
+animals_quiz.py:128:28: E231 missing whitespace after ','
+animals_quiz.py:128:32: E231 missing whitespace after ','
+animals_quiz.py:129:16: E231 missing whitespace after ','
+animals_quiz.py:129:20: E231 missing whitespace after ','
+animals_quiz.py:129:24: E231 missing whitespace after ','
+animals_quiz.py:129:28: E231 missing whitespace after ','
+animals_quiz.py:129:32: E231 missing whitespace after ','
+animals_quiz.py:130:21: E231 missing whitespace after ','
+animals_quiz.py:130:28: E231 missing whitespace after ','
+animals_quiz.py:130:38: E231 missing whitespace after ','
+animals_quiz.py:130:41: E231 missing whitespace after ','
+animals_quiz.py:130:44: E231 missing whitespace after ','
+animals_quiz.py:131:17: E231 missing whitespace after ','
+animals_quiz.py:131:20: E231 missing whitespace after ','
+animals_quiz.py:131:23: E231 missing whitespace after ','
+animals_quiz.py:131:27: E231 missing whitespace after ','
+animals_quiz.py:131:31: E231 missing whitespace after ','
+animals_quiz.py:134:30: E231 missing whitespace after ','
+animals_quiz.py:134:36: E231 missing whitespace after ','
+animals_quiz.py:134:47: E231 missing whitespace after ','
+animals_quiz.py:134:53: E231 missing whitespace after ','
+animals_quiz.py:134:65: E231 missing whitespace after ','
+animals_quiz.py:134:80: E501 line too long (80 > 79 characters)
+animals_quiz.py:149:4: E111 indentation is not a multiple of four
+animals_quiz.py:151:4: E111 indentation is not a multiple of four
+animals_quiz.py:152:8: E111 indentation is not a multiple of four
+animals_quiz.py:152:13: E211 whitespace before '('
+animals_quiz.py:153:4: E111 indentation is not a multiple of four
+animals_quiz.py:154:8: E111 indentation is not a multiple of four
+animals_quiz.py:154:13: E211 whitespace before '('
+animals_quiz.py:156:4: E114 indentation is not a multiple of four (comment)
+animals_quiz.py:157:4: E111 indentation is not a multiple of four
+animals_quiz.py:159:4: E114 indentation is not a multiple of four (comment)
+animals_quiz.py:160:4: E111 indentation is not a multiple of four
+animals_quiz.py:162:4: E111 indentation is not a multiple of four
+animals_quiz.py:163:8: E111 indentation is not a multiple of four
+animals_quiz.py:163:13: E211 whitespace before '('
+animals_quiz.py:164:4: E111 indentation is not a multiple of four
+animals_quiz.py:165:8: E111 indentation is not a multiple of four
+animals_quiz.py:165:13: E211 whitespace before '('
+animals_quiz.py:166:8: E114 indentation is not a multiple of four (comment)
+animals_quiz.py:167:8: E111 indentation is not a multiple of four
+animals_quiz.py:169:4: E114 indentation is not a multiple of four (comment)
+animals_quiz.py:170:4: E111 indentation is not a multiple of four
+animals_quiz.py:176:4: E111 indentation is not a multiple of four
+animals_quiz.py:178:4: E111 indentation is not a multiple of four
+animals_quiz.py:179:8: E111 indentation is not a multiple of four
+animals_quiz.py:179:13: E211 whitespace before '('
+animals_quiz.py:180:4: E111 indentation is not a multiple of four
+animals_quiz.py:181:8: E111 indentation is not a multiple of four
+animals_quiz.py:181:13: E211 whitespace before '('
+animals_quiz.py:183:4: E114 indentation is not a multiple of four (comment)
+animals_quiz.py:184:4: E111 indentation is not a multiple of four
+animals_quiz.py:186:4: E114 indentation is not a multiple of four (comment)
+animals_quiz.py:187:4: E111 indentation is not a multiple of four
+animals_quiz.py:189:4: E111 indentation is not a multiple of four
+animals_quiz.py:190:8: E111 indentation is not a multiple of four
+animals_quiz.py:190:13: E211 whitespace before '('
+animals_quiz.py:191:8: E111 indentation is not a multiple of four
+animals_quiz.py:192:4: E111 indentation is not a multiple of four
+animals_quiz.py:193:8: E111 indentation is not a multiple of four
+animals_quiz.py:193:13: E211 whitespace before '('
+animals_quiz.py:194:8: E114 indentation is not a multiple of four (comment)
+animals_quiz.py:195:8: E111 indentation is not a multiple of four
+animals_quiz.py:197:4: E114 indentation is not a multiple of four (comment)
+animals_quiz.py:198:4: E111 indentation is not a multiple of four
+animals_quiz.py:204:6: E211 whitespace before '('
+animals_quiz.py:204:43: W292 no newline at end of file

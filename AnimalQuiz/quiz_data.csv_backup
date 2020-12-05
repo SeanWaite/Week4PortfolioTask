@@ -1,0 +1,7 @@
+type,name,eyes,legs,bonus_question,bonus_answer
+Mammal,Cat,2,4,"What sound does a cat make?",Meow
+Mammal,Dog,2,4,"What sound does a dog make?",Woof
+Mammal,Kangaroo,2,2,"How high can Kangaroo's jump in feet?",5
+Insect,Bee,5,6,"How many wings does a Bee have?",4
+Insect,Dragonfly,5,6,"How many wings does a Dragonfly have?",4
+Insect,Dung Beetle,4,6,"How many wings does a Dung Beetle have?",4

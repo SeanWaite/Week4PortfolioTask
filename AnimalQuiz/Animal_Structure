@@ -1,0 +1,31 @@
+/c/Users/swaite2/Week3PortfolioTask/AnimalQuiz
+Folder PATH listing for volume OSDisk
+Volume serial number is 809C-C1E8
+C:.
+|   Animal_Structure
+|   main.py
+|   
++---Animal
+|   |   animal.py
+|   |   __init__.py
+|   |   
+|   \---__pycache__
+|           animal.cpython-39.pyc
+|           __init__.cpython-39.pyc
+|           
++---Insect
+|   |   insect.py
+|   |   __init__.py
+|   |   
+|   \---__pycache__
+|           insect.cpython-39.pyc
+|           __init__.cpython-39.pyc
+|           
+\---Mammal
+    |   mammal.py
+    |   __init__.py
+    |   
+    \---__pycache__
+            mammal.cpython-39.pyc
+            __init__.cpython-39.pyc
+            
